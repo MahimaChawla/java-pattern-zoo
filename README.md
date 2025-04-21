@@ -1,6 +1,6 @@
 # 🦒 Java Pattern Zoo
 
-A collection of essential design patterns implemented in Java (JDK 22).  
+A collection of the most useful design patterns implemented in Java (JDK 22).  
 This project is meant to help engineers learn, revisit, or explain design patterns through minimal and focused examples.
 
 ---
@@ -85,4 +85,4 @@ As a backend engineer, understanding these patterns helps with:
 ### Author
 
 Written by Mahima Chawla
-Feel free to fork, clone, or contribute! 
+Feel free to fork, clone, or contribute!
