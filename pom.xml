@@ -21,7 +21,7 @@
                 <artifactId>exec-maven-plugin</artifactId>
                 <version>3.1.0</version>
                 <configuration>
-                    <mainClass>com.devtools.patternzoo.strategy.StrategyService</mainClass>
+                    <mainClass>com.devtools.patternzoo.factory.FactoryService</mainClass>
                 </configuration>
             </plugin>
         </plugins>
